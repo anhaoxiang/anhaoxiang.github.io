@@ -1,11 +1,11 @@
 
-<table border="0" style="border:none;">
+<table style="border-collapse: collapse;">
   <tr>
     <!-- Left column -->
-    <td width="70%" valign="top">
+    <td width="70%" valign="top" style="border:none;">
       <h2>Anhao Xiang</h2>
       <em>Ph.D. Candidate in Computer Science, Colorado School of Mines</em><br><br>
-      📧 xianganhao@mines.edu <br><br>
+      Email: xianganhao@mines.edu <br><br>
 
       <a href="https://linkedin.com/in/anhao-xiang-985a561a7">LinkedIn</a> |
       <a href="https://scholar.google.com/citations?hl=en&user=JROZGzsAAAAJ">Google Scholar</a> |
@@ -13,7 +13,7 @@
     </td>
 
     <!-- Right column -->
-    <td width="30%" align="center" valign="top">
+    <td width="30%" align="center" valign="top" style="border:none;">
       <img src="anhao.jpg" alt="Anhao Xiang" width="180">
     </td>
   </tr>

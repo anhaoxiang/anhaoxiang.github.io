@@ -5,8 +5,8 @@
   <div style="flex: 70%;">
     <h2>Anhao Xiang</h2>
     <em>Ph.D. Candidate in Computer Science, Colorado School of Mines</em><br><br>
-    Email: xianganhao@mines.edu <br><br>
 
+    xianganhao@mines.edu | 
     <a href="https://linkedin.com/in/anhao-xiang-985a561a7">LinkedIn</a> |
     <a href="https://scholar.google.com/citations?hl=en&user=JROZGzsAAAAJ">Google Scholar</a> |
     <a href="CV_Anhao.pdf">📄 CV</a>

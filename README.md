@@ -58,8 +58,8 @@ Anhao Xiang is a Ph.D. Candidate in Computer Science at the Colorado School of M
 5. **A Situation-Aware Scheme for Efficient Device Authentication in Smart Grid-Enabled Home Area Networks** [[pdf]](https://www.mdpi.com/2079-9292/9/6/989#:~:text=The%20proposed%20scheme%20utilizes%20the,the%20assessed%20security%20risk%20level.). By Anhao Xiang, and Jun Zheng. In Journal of Electronics, 2020.  
 
 **Under Review:**  
-- **Investigating the Effectiveness of Privacy Transparency Methods of Mobile Applications**. In Journal of ACM Transactions on Privacy and Security (TOPS), 2025.   
-- **Investigating the Health Data Sharing Implications**. In Journal of ACM Transactions on Computing for Healthcare (HEALTH), 2025. 
+- **Investigating the Effectiveness of Privacy Transparency Methods of Mobile Applications**. Under Review In Journal of ACM Transactions on Privacy and Security (TOPS), 2025.   
+- **Investigating the Health Data Sharing Implications**. Under Review In Journal of ACM Transactions on Computing for Healthcare (HEALTH), 2025. 
 
 
 ## Teaching

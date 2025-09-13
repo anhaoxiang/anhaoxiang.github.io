@@ -38,9 +38,7 @@ Anhao Xiang is a Ph.D. Candidate in Computer Science at the Colorado School of M
 
 - **Graduate Certificate in Cybersecurity**, NMT — *Dec 2021*  
 
-- **Certifications:**  
-  - Offensive Security Certified Professional (OSCP), 2021  
-  - Security+ (CompTIA), 2021 (renewing)  
+- **Industry Certifications:** Offensive Security Certified Professional (OSCP), 2021; Security+ (CompTIA), 2021 (renewing)  
 
 ## Publications
 

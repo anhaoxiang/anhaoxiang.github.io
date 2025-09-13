@@ -1,5 +1,5 @@
 
-<table>
+<table border="0" style="border:none;">
   <tr>
     <!-- Left column -->
     <td width="70%" valign="top">

@@ -22,7 +22,7 @@
 
 ## About
 
-Anhao Xiang is a Ph.D. Candidate in Computer Science at the Colorado School of Mines (Mines), under the supervision of Professor [Chuan Yue](https://people.mines.edu/chuanyue/). His current research focuses on security and privacy, particularly on (1) mobile app privacy and regulatory compliance, (2) web security, and (3) usable security and privacy. He received his B.S. and M.S. degrees in Computer Science from the New Mexico Institute of Mining and Technology (USA) in 2020 and 2021, respectively. He also holds a Graduate Certificate in Cybersecurity and is an Offensive Security Certified Professional (OSCP). For more information, please view [my CV](CV_Anhao.pdf).
+Anhao Xiang is a Ph.D. Candidate in Computer Science at the Colorado School of Mines (MINES), under the supervision of Professor [Chuan Yue](https://people.mines.edu/chuanyue/). His current research focuses on security and privacy, particularly on (1) mobile app privacy and regulatory compliance, (2) web security, and (3) usable security and privacy. He received his B.S. and M.S. degrees in Computer Science from the New Mexico Institute of Mining and Technology (NMT) in 2020 and 2021, respectively. He also holds a Graduate Certificate in Cybersecurity and is an Offensive Security Certified Professional (OSCP). For more information, please view [my CV](CV_Anhao.pdf).
 
 **Anhao will graduate in December 2025 and is currently on the job market.**
 

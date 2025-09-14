@@ -71,8 +71,8 @@ In this project, we investigated the GDPR compliance of mobile apps’ privacy p
 5. **A Situation-Aware Scheme for Efficient Device Authentication in Smart Grid-Enabled Home Area Networks** [[pdf]](https://www.mdpi.com/2079-9292/9/6/989#:~:text=The%20proposed%20scheme%20utilizes%20the,the%20assessed%20security%20risk%20level.). By Anhao Xiang, and Jun Zheng. In Journal of Electronics, 2020.  
 
 **Under Review:**  
-- **Investigating the Effectiveness of Privacy Transparency Methods of Mobile Applications**. Under Review In Journal of ACM Transactions on Privacy and Security (TOPS), 2025.   
-- **Investigating the Health Data Sharing Risks**. Under Review In Journal of ACM Transactions on Computing for Healthcare (HEALTH), 2025. 
+- **Investigating the Effectiveness of Privacy Transparency Methods of Mobile Applications**. By Anhao Xiang, Weiping Pei, and Chuan Yue. Under Review In Journal of ACM Transactions on Privacy and Security (TOPS), 2025.   
+- **Investigating the Health Data Sharing Risks**. By Anhao Xiang, Weiping Pei, Madelyn Swelstad, Andrew Plute, and Chuan Yue. Under Review In Journal of ACM Transactions on Computing for Healthcare (HEALTH), 2025. 
 
 ## Work Experience
 

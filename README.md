@@ -45,15 +45,15 @@ Anhao Xiang is a Ph.D. Candidate in Computer Science at the Colorado School of M
 
 **Analyzing the Feasibility of Adopting CSP on the Web**  
 *Accepted at IEEE/ACM ICSE 2025, second author*  
-Content Security Policy (CSP) is a key security mechanism designed to mitigate injection attacks such as XSS. In this project, we developed an automated crawling tool to assess adoption of Google’s four nonce-based CSP solutions across the top 10K websites. Our analysis demonstrated that most websites could feasibly adopt nonce-based CSPs. We further analyzed adoption challenges and provided recommendations to help developers strengthen their websites against injection attacks.  
+Content Security Policy (CSP) is a key security mechanism designed to mitigate injection attacks like XSS. In this project, we developed an automated crawling tool to assess adoption of Google’s four nonce-based CSP solutions across the top 10K websites. Our analysis demonstrated that most websites could feasibly adopt nonce-based CSPs. We further analyzed adoption challenges, and provided recommendations to help developers strengthen their websites against injection attacks.
 
 **Exploring Additional Dimensions on the Adoption of CSP**  
 *To appear in IEEE S&P Magazine 2025, first author*  
-This article builds on the ICSE 2025 study by exploring additional dimensions, particularly developers’ perspectives on the adoption of nonce-based CSP solutions and the applicability of these solutions to websites with diverse architectures and development frameworks. We also examined the support provided by large language models (LLMs) for adopting nonce-based CSP solutions.  
+This article builds on the ICSE 2025 study by exploring additional dimensions, particularly developers’ perspectives on the adoption of nonce-based CSP solutions, and the applicability of these solutions to websites with diverse architectures and development frameworks. We also explored the LLMs’ support for adopting nonce-based CSP solutions.  
 
 **Analyzing the GDPR Compliance of Mobile Apps’ Privacy Policies**  
 *Accepted at ACM CCS 2023, first author*  
-In this project, we investigated the GDPR compliance of mobile apps’ privacy policies. We designed the NLP framework **PolicyChecker** using a rule-based and semantic role labeling approach. Using PolicyChecker, we conducted the first large-scale analysis of mobile app privacy policies and found that **99.3% violated at least one requirement**. Our analysis further revealed root causes related to developers’ limited understanding of GDPR and the widespread reliance on policy generators.  
+In this project, we investigated the GDPR compliance of mobile apps’ privacy policies. We designed the NLP framework PolicyChecker by taking a rule and semantic role based approach. Using PolicyChecker, we conducted the first large-scale analysis of mobile app privacy policies and found that 99.3% violated at least one requirement. Our analysis further revealed root causes related to developers’ limited understanding of GDPR and the widespread reliance on policy generators.
 
 **Investigating Health Data Sharing Risks**  
 *Under review in ACM HEALTH, first author*  
@@ -126,8 +126,8 @@ In this project, we investigated the GDPR compliance of mobile apps’ privacy p
 - Guest lectures on *SQL Injection Attacks and Defenses* in the CSCI 403 Database Management class, MINES, March 2022.  
 
 **University Service**  
-- Served as an observer (competition official) for the MINES team in the **Rocky Mountain Collegiate Cyber Defense Competition (RMCCDC)**, March 2025.  
-- Served as a white-team member (competition official) for the MINES team in the **RMCCDC**, March 2022.  
+- Served as an observer (competition official) for the MINES team in the Rocky Mountain Collegiate Cyber Defense Competition (RMCCDC), March 2025.  
+- Served as a white-team member (competition official) for the MINES team in the RMCCDC, March 2022.  
 
 **Conference Reviewer**  
 - EMNLP 2022, IEEE TPS 2022, CODASPY 2023, IEEE TPS 2023  

@@ -55,13 +55,6 @@ This article builds on the ICSE 2025 study by exploring additional dimensions, p
 *Accepted at ACM CCS 2023, first author*  
 In this project, we investigated the GDPR compliance of mobile apps’ privacy policies. We designed the NLP framework PolicyChecker by taking a rule and semantic role based approach. Using PolicyChecker, we conducted the first large-scale analysis of mobile app privacy policies and found that 99.3% violated at least one requirement. Our analysis further revealed root causes related to developers’ limited understanding of GDPR and the widespread reliance on policy generators.
 
-**Investigating Health Data Sharing Risks**  
-*Under review in ACM HEALTH, first author*  
-
-**Investigating the Effectiveness of Privacy Transparency Methods of Mobile Applications**  
-*Under review in ACM TOPS, first author*  
-
-
 ## Publications
 
 1. **Analyzing the Feasibility of Adopting Google’s Nonce-Based CSP Solutions on Websites** [[pdf]](https://ieeexplore.ieee.org/document/11029938).

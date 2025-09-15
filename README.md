@@ -121,7 +121,7 @@ In this project, we investigated the GDPR compliance of mobile apps’ privacy p
 **University Service**  
 - Served as an observer (competition official) for the MINES team in the Rocky Mountain Collegiate Cyber Defense Competition (RMCCDC), March 2025.  
 - Served as a white-team member (competition official) for the MINES team in the RMCCDC, March 2022.
-- Help advised undergraduate student Andrew Plute for a project on digital identify verification, Summar and Fall 2025.
+- Help advised undergraduate student Andrew Plute for a project on digital identify verification, Summer and Fall 2025.
 - Help advised undergraduate students Madelyn Swelstad and Andrew Plute for a project on mobile app user privacy, Fall 2024 and Spring 2025.
 - Help advised undergraduate students Lucas Bowar and Brooke Bowcutt for a project on app privacy policy analysis, Fall 2022.
 - Help advised a group of high school students including Andrew Plute, Vincent Nguyen, Alexander Bieniek, etc. in MINES DoD CySP Cyber-REACH 2022 Summer Research Camp.

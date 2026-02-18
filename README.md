@@ -9,7 +9,7 @@
     <em>Kennesaw State University</em>
     <br><br>
 
-    xianganhao@kennesaw.edu | 
+    axiang@kennesaw.edu | 
     <a href="https://linkedin.com/in/anhao-xiang-985a561a7">LinkedIn</a> |
     <a href="https://scholar.google.com/citations?hl=en&user=JROZGzsAAAAJ">Google Scholar</a> |
     <a href="CV_Anhao_Public.pdf">📄 CV</a>
